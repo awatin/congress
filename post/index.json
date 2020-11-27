@@ -1,0 +1,28 @@
+{
+    "posts" : [
+        {
+            "title" : "The last call for takeoff",
+            "date" : "27 November 2020",
+            "url" : "/takeoff-last-call/",
+            "author" : "savetheales"
+        },
+        {
+            "title" : "The show must go on!",
+            "date" : "12 November 2020",
+            "url" : "/takeoff-prolong/",
+            "author" : "savetheales"
+        },
+        {
+            "title" : "Migrating the fuckgoogle validator",
+            "date" : "09 October 2020",
+            "url" : "/fuckgoogle-validator/",
+            "author" : "serejandmyself"
+        },
+        {
+            "title" : "Darwin upgrade",
+            "date" : "14 July 2020",
+            "url" : "/darwin-upgrade/",
+            "author" : "litvintech"
+        }
+        ]
+}
